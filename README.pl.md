@@ -5,4 +5,4 @@ Obsługa klienta po polsku i angielsku (C1) oraz praktyka w tworzeniu i testowan
 - **[Prewalk](https://github.com/iandamai720-cmyk/portfolio/blob/main/projects/prewalk/README.pl.md):** działająca strona usługi zamieniającej rzuty mieszkań w spacery 3D. Określiłem produkt i testowałem nowe wersje na prawdziwym telefonie przed publikacją.
 - **[Jarvis](https://github.com/iandamai720-cmyk/portfolio/blob/main/projects/jarvis/README.pl.md):** mój osobisty asystent AI z dashboardem, Telegramem i głosem. Ustaliłem jego zasady i testowałem go na telefonie.
 
-**[Zobacz portfolio](https://github.com/iandamai720-cmyk/portfolio/blob/main/README.pl.md)** · [English](README.md)
+**[Zobacz portfolio](https://github.com/iandamai720-cmyk/portfolio/blob/main/README.pl.md)** · [LinkedIn](https://www.linkedin.com/in/damian-niczyporuk) · [English](README.md)

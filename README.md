@@ -5,4 +5,4 @@ Customer support in Polish and English (C1), with hands-on experience building a
 - **[Prewalk](https://github.com/iandamai720-cmyk/portfolio/blob/main/projects/prewalk/README.md):** a live website for a service that turns floor plans into 3D walkthroughs. I defined the product and tested new versions on a real phone before publishing.
 - **[Jarvis](https://github.com/iandamai720-cmyk/portfolio/blob/main/projects/jarvis/README.md):** my personal AI assistant with a dashboard, Telegram and voice. I set its rules and tested it on my phone.
 
-**[See my portfolio](https://github.com/iandamai720-cmyk/portfolio)** · [Polski](README.pl.md)
+**[See my portfolio](https://github.com/iandamai720-cmyk/portfolio)** · [LinkedIn](https://www.linkedin.com/in/damian-niczyporuk) · [Polski](README.pl.md)
